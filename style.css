@@ -1,0 +1,24 @@
+
+input{
+    background-color:white;
+    width: 15%;
+    height: 15%;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: brown;
+    outline: none;
+    border: none;
+}
+
+.mk{
+
+background-color: aqua;
+}
